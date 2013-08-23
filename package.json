@@ -1,0 +1,7 @@
+{
+  "name": "asm",
+  "private": true,
+  "dependencies": {
+    "websocket": "1.0.8"
+  }
+}
