@@ -1,5 +1,15 @@
 # Awesome System Monitor (ASM)
 
+## Getting Started
+
+`git clone https://github.com/Fabel/asm.git`
+
+`sudo apt-get install node sysstat`
+
+`cd asm && npm install`
+
+`node start.js`
+
 ## used soft
 
 `node, sar, ps, sysstat`
