@@ -6,7 +6,7 @@
 
 ## install
 
-`sudo apt-get node sysstat`
+`sudo apt-get install node sysstat`
 
 ## start
 
