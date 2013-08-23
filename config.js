@@ -1,4 +1,5 @@
 global.config = {
+  port: 8090,
   avgTimeout: 1000,
   cpuTimeout: 1000,
   memTimeout: 1000,

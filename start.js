@@ -14,4 +14,4 @@ Router.get('/channels', function(req, resp){
   })
 })
 
-Server.listen(8090)
+Server.listen(config.port)
