@@ -1,12 +1,12 @@
 # Awesome System Monitor (ASM)
 
-## using
+## used soft
 
-node, sar, ps, sysstat
+`node, sar, ps, sysstat`
 
-## intall
+## install
 
-sudo apt-get node sysstat
+`sudo apt-get node sysstat`
 
 ## start
 
